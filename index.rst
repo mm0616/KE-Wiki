@@ -1,7 +1,7 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: 产品编码 文档的项目名称
+   :caption: 科易互动机器人资料库
 
    README.md
    docs/a
